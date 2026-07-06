@@ -51,11 +51,11 @@ With a strong foundation in Bathematics, I bridge the gap between heavy statisti
 *   **The Business Impact:** Automatically flagged 45% of duplicate entries as low-value, driving a **30% gain in overall supply chain efficiency** and saving 15+ hours of manual reconciliation monthly across 10 business units.
 
 ### 🔹 Data Leadership & Strategy
-*   Led, mentored, and scaled data science teams for high-profile consulting operations (**Booz Allen Hamilton**) and federal defense agencies (**U.S. Department of Defense**).
+*   Led, mentored, and scaled data science teams for high-profile consulting operations and federal defense agencies .
 *   Standardized enterprise code review, model evaluation metrics, and automated reporting systems—saving teams up to 20% of their weekly hours and slashing client reporting turnarounds by 60 days.
 
 ---
 
 ## 📬 Connect With Me
-*   **LinkedIn:** [linkedin.com/in/your-profile-url](https://linkedin.com/in/your-profile-url)
-*   **Email:** [your.email@example.com](mailto:your.email@example.com)
+*   **LinkedIn:** [linkedin.com/in/pagiethomas](https://linkedin.com/in/pagiethomas)
+*   **Email:** [pagie.l.thomas@gmail.com](mailto:pagie.l.thomas@gmail.com)
